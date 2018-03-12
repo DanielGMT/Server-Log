@@ -9,6 +9,6 @@ DBT ONLINE
 - Rythm BOT atualizado em 10/03/2018, corrigido bug: delay nos comandos de "!play", "!stop" e "!pause".
 - DBT BOT atualizado em 09/03/2018, implementado "auto search", aprimoramento de pesquisas.
 - TimeOut para spam no chat.
-- Manutenção do chat: zerar informações de histórico para reduzir o delay entre comandos no chat.
+- Manutenção do chat: Zerar informações de histórico para reduzir o delay entre comandos no chat.
 
 12/03/2018
