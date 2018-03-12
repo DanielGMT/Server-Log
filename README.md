@@ -7,7 +7,7 @@ DBT ONLINE
 318,261 Servers
 - Cargos com tempo de registro atualizando para: 3, 6 e 12 meses automaticamente.
 - Rythm BOT atualizado em 10/03/2018, corrigido bug: delay nos comandos de "!play", "!stop" e "!pause".
-- DBT BOT atualizado em 09/03/2018, emplementado "auto search", aprimoramento de pesquisas.
+- DBT BOT atualizado em 09/03/2018, implementado "auto search", aprimoramento de pesquisas.
 - TimeOut para spam no chat.
 - Manutenção do chat: zerar informações de histórico para reduzir o delay entre comandos no chat.
 
