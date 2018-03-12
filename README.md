@@ -10,5 +10,7 @@ DBT ONLINE
 - DBT BOT atualizado em 09/03/2018, implementado "auto search", aprimoramento de pesquisas.
 - TimeOut para spam no chat.
 - Manutenção do chat: Zerar informações de histórico para reduzir o delay entre comandos no chat.
+- Salas de ADMs e MODs agora são invisíveis para usuários sem permissões.
+
 
 12/03/2018
