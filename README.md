@@ -11,6 +11,7 @@ DBT ONLINE
 - TimeOut para spam no chat.
 - Manutenção do chat: Zerar informações de histórico para reduzir o delay entre comandos no chat.
 - Salas de ADMs e MODs agora são invisíveis para usuários sem permissões.
+- Novo BOT implementado! O diretor! Ele realiza qualquer função no servidor, desde anti spamming e informações do servidor, até kicks e bans.
 
 
 12/03/2018
